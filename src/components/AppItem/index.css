@@ -1,0 +1,19 @@
+.app-card-container {
+  width: 120px;
+  height: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin: 5px;
+}
+.app-image {
+  width: 75px;
+}
+.app-heading {
+  font-size: 15px;
+  margin-top: 5px;
+  font-family: 'Bree Serif';
+}

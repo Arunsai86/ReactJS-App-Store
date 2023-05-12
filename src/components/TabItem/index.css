@@ -1,0 +1,17 @@
+li {
+  list-style-type: none;
+}
+.tabButton {
+  width: 70px;
+  border: none;
+  border-bottom: 1px solid #dfe2e5;
+  background-color: transparent;
+  padding: 5px;
+  color: #7b8794;
+  cursor: pointer;
+  outline: none;
+}
+.activeTabBtn {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}
